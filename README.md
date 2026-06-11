@@ -34,9 +34,13 @@
 
 ### Output:
 
+<img width="1585" height="844" alt="image" src="https://github.com/user-attachments/assets/dd04852f-331a-45b4-8792-18dbbf32141f" />
 
-### Name:
-### Register Number:
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/30af5094-7c4b-479c-b72c-bd00789ffb15" />
+
+
+### Name: MARXIN LIJO M
+### Register Number: 212223240085
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
